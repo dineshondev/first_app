@@ -1,0 +1,191 @@
+total 64
+-rw-r--r--   1 dinesh  staff  1617 Sep 21 19:21 Gemfile
+-rw-r--r--   1 dinesh  staff  4005 Sep 21 19:32 Gemfile.lock
+-rw-r--r--   1 dinesh  staff   478 Sep 21 19:03 README.rdoc
+-rw-r--r--   1 dinesh  staff   249 Sep 21 19:03 Rakefile
+drwxr-xr-x   8 dinesh  staff   272 Sep 21 19:03 app
+drwxr-xr-x   7 dinesh  staff   238 Sep 21 19:03 bin
+drwxr-xr-x  11 dinesh  staff   374 Sep 21 19:28 config
+-rw-r--r--   1 dinesh  staff   153 Sep 21 19:03 config.ru
+drwxr-xr-x   4 dinesh  staff   136 Sep 21 19:03 db
+-rw-r--r--   1 dinesh  staff     0 Sep 21 19:55 dir-tree.list
+drwxr-xr-x   4 dinesh  staff   136 Sep 21 19:03 lib
+drwxr-xr-x   4 dinesh  staff   136 Sep 21 19:03 log
+drwxr-xr-x   7 dinesh  staff   238 Sep 21 19:03 public
+-rw-r--r--@  1 dinesh  staff  5154 Sep 21 19:54 stdout.log
+drwxr-xr-x   9 dinesh  staff   306 Sep 21 19:03 test
+drwxr-xr-x   6 dinesh  staff   204 Sep 21 19:03 tmp
+drwxr-xr-x   3 dinesh  staff   102 Sep 21 19:03 vendor
+
+./app:
+total 0
+drwxr-xr-x  5 dinesh  staff  170 Sep 21 19:03 assets
+drwxr-xr-x  4 dinesh  staff  136 Sep 21 19:25 controllers
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 helpers
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 mailers
+drwxr-xr-x  4 dinesh  staff  136 Sep 21 19:03 models
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 views
+
+./app/assets:
+total 0
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 images
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 javascripts
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 stylesheets
+
+./app/assets/images:
+
+./app/assets/javascripts:
+total 8
+-rw-r--r--  1 dinesh  staff  667 Sep 21 19:03 application.js
+
+./app/assets/stylesheets:
+total 8
+-rw-r--r--  1 dinesh  staff  686 Sep 21 19:03 application.css
+
+./app/controllers:
+total 8
+-rw-r--r--  1 dinesh  staff  276 Sep 21 19:25 application_controller.rb
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 concerns
+
+./app/controllers/concerns:
+
+./app/helpers:
+total 8
+-rw-r--r--  1 dinesh  staff  29 Sep 21 19:03 application_helper.rb
+
+./app/mailers:
+
+./app/models:
+total 0
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 concerns
+
+./app/models/concerns:
+
+./app/views:
+total 0
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 layouts
+
+./app/views/layouts:
+total 8
+-rw-r--r--  1 dinesh  staff  298 Sep 21 19:03 application.html.erb
+
+./bin:
+total 40
+-rwxr-xr-x  1 dinesh  staff  129 Sep 21 19:03 bundle
+-rwxr-xr-x  1 dinesh  staff  219 Sep 21 19:03 rails
+-rwxr-xr-x  1 dinesh  staff  164 Sep 21 19:03 rake
+-rwxr-xr-x  1 dinesh  staff  805 Sep 21 19:03 setup
+-rwxr-xr-x  1 dinesh  staff  463 Sep 21 19:03 spring
+
+./config:
+total 48
+-rw-r--r--   1 dinesh  staff  1115 Sep 21 19:03 application.rb
+-rw-r--r--   1 dinesh  staff   132 Sep 21 19:03 boot.rb
+-rw-r--r--   1 dinesh  staff   552 Sep 21 19:03 database.yml
+-rw-r--r--   1 dinesh  staff   150 Sep 21 19:03 environment.rb
+drwxr-xr-x   5 dinesh  staff   170 Sep 21 19:03 environments
+drwxr-xr-x  10 dinesh  staff   340 Sep 21 19:03 initializers
+drwxr-xr-x   3 dinesh  staff   102 Sep 21 19:03 locales
+-rw-r--r--   1 dinesh  staff  1628 Sep 21 19:28 routes.rb
+-rw-r--r--   1 dinesh  staff   964 Sep 21 19:03 secrets.yml
+
+./config/environments:
+total 24
+-rw-r--r--  1 dinesh  staff  1600 Sep 21 19:03 development.rb
+-rw-r--r--  1 dinesh  staff  3304 Sep 21 19:03 production.rb
+-rw-r--r--  1 dinesh  staff  1755 Sep 21 19:03 test.rb
+
+./config/initializers:
+total 64
+-rw-r--r--  1 dinesh  staff  486 Sep 21 19:03 assets.rb
+-rw-r--r--  1 dinesh  staff  404 Sep 21 19:03 backtrace_silencers.rb
+-rw-r--r--  1 dinesh  staff  129 Sep 21 19:03 cookies_serializer.rb
+-rw-r--r--  1 dinesh  staff  194 Sep 21 19:03 filter_parameter_logging.rb
+-rw-r--r--  1 dinesh  staff  647 Sep 21 19:03 inflections.rb
+-rw-r--r--  1 dinesh  staff  156 Sep 21 19:03 mime_types.rb
+-rw-r--r--  1 dinesh  staff  141 Sep 21 19:03 session_store.rb
+-rw-r--r--  1 dinesh  staff  517 Sep 21 19:03 wrap_parameters.rb
+
+./config/locales:
+total 8
+-rw-r--r--  1 dinesh  staff  634 Sep 21 19:03 en.yml
+
+./db:
+total 8
+-rw-r--r--  1 dinesh  staff    0 Sep 21 19:03 development.sqlite3
+-rw-r--r--  1 dinesh  staff  343 Sep 21 19:03 seeds.rb
+
+./lib:
+total 0
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 assets
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 tasks
+
+./lib/assets:
+
+./lib/tasks:
+
+./log:
+total 8
+-rw-r--r--  1 dinesh  staff  503 Sep 21 19:32 development.log
+
+./public:
+total 32
+-rw-r--r--  1 dinesh  staff  1564 Sep 21 19:03 404.html
+-rw-r--r--  1 dinesh  staff  1547 Sep 21 19:03 422.html
+-rw-r--r--  1 dinesh  staff  1477 Sep 21 19:03 500.html
+-rw-r--r--  1 dinesh  staff     0 Sep 21 19:03 favicon.ico
+-rw-r--r--  1 dinesh  staff   202 Sep 21 19:03 robots.txt
+
+./test:
+total 8
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 controllers
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 fixtures
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 helpers
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 integration
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 mailers
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 models
+-rw-r--r--  1 dinesh  staff  312 Sep 21 19:03 test_helper.rb
+
+./test/controllers:
+
+./test/fixtures:
+
+./test/helpers:
+
+./test/integration:
+
+./test/mailers:
+
+./test/models:
+
+./tmp:
+total 0
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 cache
+drwxr-xr-x  2 dinesh  staff   68 Sep 21 19:32 pids
+drwxr-xr-x  2 dinesh  staff   68 Sep 21 19:03 sessions
+drwxr-xr-x  2 dinesh  staff   68 Sep 21 19:03 sockets
+
+./tmp/cache:
+total 0
+drwxr-xr-x  2 dinesh  staff  68 Sep 21 19:03 assets
+
+./tmp/cache/assets:
+
+./tmp/pids:
+
+./tmp/sessions:
+
+./tmp/sockets:
+
+./vendor:
+total 0
+drwxr-xr-x  4 dinesh  staff  136 Sep 21 19:03 assets
+
+./vendor/assets:
+total 0
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 javascripts
+drwxr-xr-x  3 dinesh  staff  102 Sep 21 19:03 stylesheets
+
+./vendor/assets/javascripts:
+
+./vendor/assets/stylesheets:
